@@ -37,9 +37,9 @@ Ser referentes en el fortalecimiento de la seguridad y resiliencia de las organi
 
 ## 🧑‍💻 Repositorios Relacionados
 
-- [ISO 27001 Toolkit](https://github.com/asserlabs/iso27001-toolkit)
-- [Security Awareness Kit](https://github.com/asserlabs/security-awareness)
-- [Cloud Hardening Scripts](https://github.com/asserlabs/cloud-hardening)
+<!-- - [ISO 27001 Toolkit](https://github.com/asserlabs/iso27001-toolkit)   -->
+<!-- - [Security Awareness Kit](https://github.com/asserlabs/security-awareness)   -->
+<!-- - [Cloud Hardening Scripts](https://github.com/asserlabs/cloud-hardening)   -->
 
 ---
 
