@@ -1,6 +1,6 @@
 # Assertiva.biz - Risk Advisory & Cybersecurity
 
-![Assertiva Logo]([https://assertiva.biz/logo.png](https://www.assertiva.biz/web/image/website/1/logo/Assertiva?unique=49afcc8)) <!-- Cambiar por URL real si es necesario -->
+![Assertiva Logo]([[https://www.assertiva.biz/web/image/7269-adc3ed8d/AnyConv.com__Assertiva_web_skd8b4.webp.png](https://www.assertiva.biz/web/image/website/1/logo/Assertiva?unique=49afcc8)](https://www.assertiva.biz)) <!-- Cambiar por URL real si es necesario -->
 
 ## 🌐 Sobre Nosotros
 
